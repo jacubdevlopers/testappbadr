@@ -1,0 +1,21 @@
+{
+  "ADS": {
+
+
+    "Interstitial_id": "",
+    "banner_id": "",
+
+    "Banner_idF": "",
+    "Interstitial_idF": "",
+
+    "max_banner": "372c04c42bd71028",
+    "inter_max": "8fda7c971a13c6db",
+
+    "key_iron" : "",
+
+    "url_exit": "https://www.google.com/",
+
+
+    "networkAd": "admob"
+  }
+}
